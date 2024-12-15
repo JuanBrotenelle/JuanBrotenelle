@@ -5,7 +5,7 @@
 - I am currently programming in Go.
 - I also know JavaScript, TypeScript and a little bit of C.
 
-- Frameworks I am familiar with and have used in my work: Vue.js, Pinia, Express.js, Fastify, Nest.js, Tailwind.
+- Frameworks I am familiar with and have used in my work: Vue.js, Pinia, Tailwind, Express.js, Fastify, Nest.js.
 
 - Worked with ORMs and ODMs: Sequelize, Prisma, Mongoose.
 
