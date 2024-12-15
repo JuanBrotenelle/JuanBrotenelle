@@ -11,4 +11,4 @@
 
 - Familiar with *MySQL, PostgreSQL, MongoDB, Redis*.
 
-- From other things: use *Apache Kafka*, *Nginx*, *Telegram API and Telegram MiniApps SDK*, also used *Ubuntu*.
+- From other things: used *Apache Kafka*, *Nginx*, *Telegram API and Telegram MiniApps SDK*, also used *Ubuntu*.
