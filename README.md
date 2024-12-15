@@ -3,7 +3,7 @@
 #### My leetcode is [here](https://leetcode.com/u/custerandgeronimo/)
 
 - I am currently programming in Go.
-- I also know JavaScript, TypeScript and a little bit of C.
+- I also know JavaScript, TypeScript, Python and a little bit of C.
 
 - Frameworks I am familiar with and have used in my work: Vue.js, Pinia, Tailwind, Express.js, Fastify, Nest.js.
 
