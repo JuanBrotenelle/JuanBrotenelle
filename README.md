@@ -1,4 +1,4 @@
-<div style="width: 100%; dis">
+<div style="width: 100%; display: flex; align-items: center;">
 <img src="https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/06a22446366801.5851795421436.gif" width="350" style="margin: 0 auto"></img>
 </div>
 
