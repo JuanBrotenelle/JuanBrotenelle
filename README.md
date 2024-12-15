@@ -9,6 +9,6 @@
 
 - Worked with ORMs and ODMs: Sequelize, Prisma, Mongoose.
 
-- Familiar with MySQL, PostgreSQL, MongoDB.
+- Familiar with MySQL, PostgreSQL, MongoDB, Redis.
 
-- From other things: use Telegram API and Telegram MiniApps SDK, also used Ubuntu.
+- From other things: use Apache Kafka, Nginx, Telegram API and Telegram MiniApps SDK, also used Ubuntu.
